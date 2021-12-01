@@ -125,4 +125,12 @@
  padding-top: 20px;
  }
  
+  .footer {
  
+ background-color: green; 
+ height: auto;
+ color: white;
+ padding-bottom: 5px;
+ padding-top: 5px;
+ 
+ }
