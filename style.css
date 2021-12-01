@@ -79,8 +79,7 @@
  font-size: 30px;
  }
  
-
-.section-1 {
+ .section-1 {
  
  background-color: white; 
  height: auto;
@@ -126,92 +125,4 @@
  padding-top: 20px;
  }
  
-
-
-  .footer {
  
- background-color: green; 
- height: auto;
- color: white;
- padding-bottom: 5px;
- padding-top: 5px;
- 
- }
- 
- /* card image height */
-  .card-img-top {
-	  height: 220px;
-	  
-	 
-  }
-  
-  
-  }
-   .card-img-side {
-	  height: 250px;
-	 
-  }
-  
-  .card-body {
-    -ms-flex: 1 1 auto;
-    flex: 1 1 auto;
-    min-height: 1px;
-    padding: 0px;
-}
-
-.card {
-    position: relative;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    min-width: 0;
-    word-wrap: break-word;
-    background-color: #fff;
-    background-clip: border-box;
-    border: 0px;
-    border-radius: .25rem;
-}
-
-.h4, h4 {
-    font-size: 1.5rem;
-	color: black;
-}
-
-.h1, h1 {
-    color: white;
-}
-
-/* unvisited link */
-a:link {
-  color: black;
-  text-decoration: none;
-}
-
-/* visited link */
-a:visited {
-  color: black;
-  text-decoration: none;
-}
-
-
-
-/* selected link */
-a:active {
-  color: red;
-  text-decoration: none;
-}
-
-/* On screens that are 992px or less, set the background color to blue */
-@media screen and (max-width: 992px) {
- .navbar-expand-sm .navbar-nav .nav-link {
-	Margin-left: 0rem;
-	margin-right: 0rem;
-	
-}
-  }
-
-.carousel-inner img {
-    width: 100%;
-    margin: auto;
-    height: 500px;
