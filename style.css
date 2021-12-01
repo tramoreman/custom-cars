@@ -64,20 +64,11 @@
  
  } 
  
- .jumbotron .col-md-12 {
-	 padding: 100px;
-	 width: auto;
-	 
- }
-
- .jumbotron h1 {
- font-size: 80px;
- color: black;
- }
- 
- .jumbotron h3 {
- font-size: 30px;
- }
+ .carousel-inner img {
+    width: 100%;
+    margin: auto;
+    height: 500px;
+}
  
  .section-1 {
  
